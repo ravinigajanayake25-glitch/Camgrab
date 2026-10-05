@@ -1,0 +1,14 @@
+/home/nawanjana/camgrab/bin/Debug/net8.0/camgrab
+/home/nawanjana/camgrab/bin/Debug/net8.0/camgrab.deps.json
+/home/nawanjana/camgrab/bin/Debug/net8.0/camgrab.runtimeconfig.json
+/home/nawanjana/camgrab/bin/Debug/net8.0/camgrab.dll
+/home/nawanjana/camgrab/bin/Debug/net8.0/camgrab.pdb
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.GeneratedMSBuildEditorConfig.editorconfig
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.AssemblyInfoInputs.cache
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.AssemblyInfo.cs
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.csproj.CoreCompileInputs.cache
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.dll
+/home/nawanjana/camgrab/obj/Debug/net8.0/refint/camgrab.dll
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.pdb
+/home/nawanjana/camgrab/obj/Debug/net8.0/camgrab.genruntimeconfig.cache
+/home/nawanjana/camgrab/obj/Debug/net8.0/ref/camgrab.dll
