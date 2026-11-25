@@ -4,3 +4,13 @@ obj/
 *.user
 *.suo
 shots/
+
+shots/
+oct14_export/
+.vscode/
+ffmpeg.exe
+
+shots/
+oct14_export/
+.vscode/
+ffmpeg.exe
